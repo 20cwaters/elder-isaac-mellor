@@ -5,6 +5,33 @@
 
 window.LETTERS = [
   {
+    id: "2026-10-21-hit-up-the-photos-if-u-havent",
+    title: "Hit up the photos if u havent https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    date: "2026-10-21",
+    location: "Franklin",
+    week: 12,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "Yo, how we doing fam. This week was definitely one of the slower ones, not much to happen. We have just been walking. we did find a pretty elect soul. Her name is true and she grew up catholic and is still loyal to her faith, but she hates the catholic church and thinks it corrupt. So she started taking lessons and she is really solid and loves what we say, but she doesn't want to convert because she is catholic so please pray for her to be baptized in Jesus' true church with priesthood authority. But I definitely feel like she is gonna give it a shot. She is gonna come to church this week and we will try and put her on date (God willing). but ya we will hopefully still be having great lessons with true for the rest of the week (God willing)." },
+      { type: "p", text: "Maggie, Javier, and Zandra all didn't make it to church. It was too bad but they will be good to come this week (God Willing). They are all still progressing though. Franks is blessed." },
+      { type: "p", text: "I had an exchange with a pug and it was cool. We went out to Dixon and put someone on date. Then he fed me turtle soup and it was nasty. But fun exchange for sure!" },
+      { type: "p", text: "me and big perrrrrrr just be walking though. We have been trying to get some priest to drive us around so hopefully that works out (God Willing). but we just haven't been able to get out to most of our area because it's a 4-6 hour walk to get to the outer parts but god will give us a way!!(God willing)." },
+      { type: "p", text: "spiritual thought" },
+      { type: "scripture", ref: "Alma 38:9", text: "9 And now, my son, I have told you this that ye may learn wisdom, that ye may learn of me that there is no other way or means whereby man can be saved, only in and through Christ. Behold, he is the life and the light of the world. Behold, he is the word of truth and righteousness." },
+      { type: "p", text: "This is when alma is talking to his son shiblon before he goes off to his mission basically, and I feel like alma tells his son this to almost fire him up to go serve. like the only way a person can be saved is through Jesus Christ and his atonement. why wouldn't you want to share that with everyone. its the most amazing gift ever and he makes it very easy for us. We can literally mess up over and over and over again and still be forgiven. The atonement is infinite and I'm so grateful it is. I would like to invite you to focus on your daily repentance and make it a happy thing every day. and then notice how much sweeter that sacrament bread is!" },
+      { type: "p", text: "love yall miss yall hit me with an email or some, I get bored sometimes." },
+      { type: "p", text: "BigMoneyBigTricks" }
+    ],
+    spiritualThought: {
+      title: "The atonement is infinite",
+      intro: "",
+      scriptureRef: "Alma 38:9",
+      scripture: "9 And now, my son, I have told you this that ye may learn wisdom, that ye may learn of me that there is no other way or means whereby man can be saved, only in and through Christ. Behold, he is the life and the light of the world. Behold, he is the word of truth and righteousness."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-14-maria-was-dunked",
     title: "Maria was dunked",
     date: "2026-10-14",
