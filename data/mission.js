@@ -24,7 +24,19 @@ window.MISSION = {
     country: "USA",
     language: "English",
     languageNative: "English",
-    presidentName: "",                       // TODO: "President & Sister ____"
+    presidentName: "President Matthew K. Stepan and Sister Wendy A. Stepan",
+    // The About page's "mission president" section. bio is in our own words from
+    // the source; the section stays hidden while names or bio are empty.
+    president: {
+      names: "President Matthew K. Stepan and Sister Wendy A. Stepan",
+      since: "2025-07-01",
+      photo: "",                             // optional: a photo of them, e.g. one he sends
+      bio: [
+        "President and Sister Stepan came to Tennessee from the Hillsdale Ward in San Jose, California, where he was serving as stake president. They have five children, and both of them served their own missions in Russia, in the St. Petersburg Mission.",
+        "President Stepan was born in Renton, Washington. Before leading his stake he served as a bishop and a high councilor, and he has also taught seminary and been a scoutmaster. Sister Stepan was born in Salt Lake City. She was teaching seminary when they were called, and she has been a ward Young Women president and a ward Primary president."
+      ],
+      source: { label: "Church News", url: "https://www.thechurchnews.com/leaders/2025/02/28/16-new-mission-presidents-and-companions-canada-to-korea/" }
+    },
     officeAddress: [                         // TODO: confirm the street address from the mission office
       "Tennessee Nashville Mission",
       "USA"
