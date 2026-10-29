@@ -49,7 +49,7 @@ window.MISSION = {
   },
 
   dates: {
-    mtcStart: "2026-08-05",                  // entered the Provo MTC
+    mtcStart: "2026-07-29",                  // entered the Provo MTC
     manilaMtcStart: "",                      // no second MTC for this mission (key name kept for the code)
     fieldStart: "2026-08-19",                // arrives in the field
     release: "2028-08-02",                   // expected release / homecoming
@@ -88,7 +88,7 @@ window.MISSION = {
       name: "Provo MTC",
       region: "Provo, Utah, USA",
       type: "mtc",
-      start: "2026-08-05",
+      start: "2026-07-29",
       end: "2026-08-19",
       lat: 40.259166,
       lng: -111.645602,
