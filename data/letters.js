@@ -5,6 +5,31 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-09-google-photos",
+    title: "Google photos",
+    date: "2026-09-09",
+    location: "Franklin",
+    week: 6,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "What a week ladies and gentlemen." },
+      { type: "p", text: "Hope yall are doing well back home, Tennessee is so pretty and lovely, oh my gosh the sunsets are beautiful here. I miss the mountains so much but here it is so green and the rolling hills are so pretty. Low key gets lost in the scenery all the time. I think I am immune to humanity. I think I like it better than the dry heat of the good old bee hive state." },
+      { type: "p", text: "This week was good. We might be cooking up a couple baptisms, and I have all the faith in the world that they will happen before the end of the transfer. but if yall could keep Billy, Jeff, and Marcie in yalls prayers that would be helpful, cuz they need to get to church THIS Sunday." },
+      { type: "p", text: "One of my favorite parts of the mission is car contacting. Car contacting is when you pull up to a red light and you just wave down the people next to you and get them to roll down their window. It's kinda fun to talk to them. we actually just found a new friend today from it, ( SHE WILL BE BAPTIZED AS WELL). but you're definitely my fav part." },
+      { type: "p", text: "I studied up on like bashers and scriptures I could use against them before the mission and in the MTC, and I've been hyped to use them but my comp won't let me bash. but we have only been bashed like 2 times this whole transfer which is kinda crazy because west gets bashed like twice a day. idk who they are talking to but it's gotta be user error. but I guess I'm blessed that I haven't had to deal with bashers because like Oli says \"it's just a waste of time”. However, we have a member we bring on lessons sometimes and he is like 75, and he talks with everyone about the church. kinda a better missionary than me. but like he loves to bash and he tells us about it and it so funny. so Ill just bash when I'm older," },
+      { type: "p", text: "anyways love yall and miss yalll," },
+      { type: "p", text: "Big Money Big Tricks" }
+    ],
+    spiritualThought: {
+      title: "",
+      intro: "",
+      scriptureRef: "",
+      scripture: ""
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-03-read-this-trust",
     title: "Read this trust",
     date: "2026-09-03",
