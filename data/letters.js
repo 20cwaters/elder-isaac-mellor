@@ -5,6 +5,32 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-30-transfer-news",
+    title: "Transfer News 🚶‍♂️",
+    date: "2026-09-30",
+    location: "Franklin",
+    week: 9,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "Yo what's good fam. Miss you all" },
+      { type: "p", text: "I got my transfer news and I am staying in Franklin. However, they made the area I'm in a walking area so I guess we will see how that goes. It should be interesting, and will make the work completely different, so I'm excited to see how this next transfer will go. We have a baptism on the 11th so I'm very glad I get to continue to teach Maria and help her progress. I will meet my new comp tomorrow but his name is elder Casper. He was my ZL for a minute last transfer, but then a lot of missionaries got moved around mid transfer so I only knew him for a minute. but he is a super chill guy. I'm excited to serve with him." },
+      { type: "p", text: "West, Judd, and Oli are all out though so that's a bummer. I will miss them dearly. but they will do great. getting transfer news was weird for the first time hopefully I will get used to it." },
+      { type: "p", text: "spiritual thought" },
+      { type: "scripture", ref: "3 Nephi 9:14", text: "14 Yea, verily I say unto you, if ye will come unto me ye shall have eternal life. Behold, mine arm of mercy is extended towards you, and whosoever will come, him will I receive; and blessed are those who come unto me." },
+      { type: "p", text: "I know that as we make the effort and the decision to follow Jesus Christ we will be blessed in every aspect of our lives. I would invite you to try a little harder this week to do things to follow Jesus, and at the end of the week look at all the blessings that come from it. I've been trying to recognize blessings or miracles more often and I know that as I strive to follow Christ I see those blessings more and more." },
+      { type: "p", text: "love yall" },
+      { type: "p", text: "#BigMoneyBigTricks" }
+    ],
+    spiritualThought: {
+      title: "Come unto me",
+      intro: "",
+      scriptureRef: "3 Nephi 9:14",
+      scripture: "14 Yea, verily I say unto you, if ye will come unto me ye shall have eternal life. Behold, mine arm of mercy is extended towards you, and whosoever will come, him will I receive; and blessed are those who come unto me."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-23-re",
     title: "Re:",
     date: "2026-09-23",

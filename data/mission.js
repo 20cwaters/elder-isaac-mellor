@@ -93,7 +93,7 @@ window.MISSION = {
       end: null,
       lat: 35.92506,
       lng: -86.86889,
-      companion: "Elder Olivera",
+      companion: "Elder Casper",
       note: "Franklin 4th Ward",
       current: true
     }
