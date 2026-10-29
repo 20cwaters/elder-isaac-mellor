@@ -60,7 +60,7 @@ window.MISSION = {
      Cloud console once the site is deployed.
      ------------------------------------------------------------ */
   maps: {
-    apiKey: "",           // TODO: paste this site's own key between the quotes
+    apiKey: "AIzaSyAFgOVCbW4-VKrasthQZ4g2PvMfPcQm0J4",   // shared key from Mission Control; deploy allows this site's address on it
     defaultZoom: 17,      // how close the map starts. 15 = neighbourhood, 18 = rooftops
     mapType: "hybrid"     // "hybrid" = satellite with street names, "satellite" = imagery only
   },
