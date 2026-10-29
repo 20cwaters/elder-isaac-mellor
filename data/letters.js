@@ -5,6 +5,33 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-16-google-photos",
+    title: "Google photos",
+    date: "2026-09-16",
+    location: "Franklin",
+    week: 7,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "Hello everyone! I hope everyone is doing amazing. I miss you all! feels like I just wrote one of these so the weeks are definitely going faster as time goes on!" },
+      { type: "p", text: "little updates, Billy didn't come to church nor any of our friends, which was very sad because we had some solid commits'. like a lady named Marcie. She is about 60 divorced and lives alone. but she really wanted to come to church and promised she would be there. and on Sunday before church she got in a wreck, a huge tree fell and hit her near her house, and all the computers went out at her job. so satin definitely was putting mountains in her road on Sunday. but she will be there next Sunday and she will be baptized so it will all work out!" },
+      { type: "p", text: "me and west ran an exchange, and it was a wild day. found a lot of people that didn't like us and had conversations that were not productive." },
+      { type: "p", text: "we hooped and went thrifting today so it was a fire P Day. Yesterday me, West, Oli, and Judd all bought lightsabers. We ordered them so they should be here shortly but they are so tuff." },
+      { type: "p", text: "spiritual thought" },
+      { type: "scripture", ref: "Alma 5:60", text: "60 And now I say unto you that the good shepherd doth call after you; and if you will hearken unto his voice he will bring you into his fold, and ye are his sheep; and he commandeth you that ye suffer no ravenous wolf to enter among you, that ye may not be destroyed." },
+      { type: "p", text: "I know that as we follow god and are apart of his fold we will be protected, and shielded from sin as we are baptized and keep our covenants we make with god. and I know as we do the Holy Ghost will guide and direct us away from sin and keep us on the straight and narrow!" },
+      { type: "p", text: "love yall, keep ballin." },
+      { type: "p", text: "Big Money Big Tricks!" }
+    ],
+    spiritualThought: {
+      title: "Protected in his fold",
+      intro: "",
+      scriptureRef: "Alma 5:60",
+      scripture: "60 And now I say unto you that the good shepherd doth call after you; and if you will hearken unto his voice he will bring you into his fold, and ye are his sheep; and he commandeth you that ye suffer no ravenous wolf to enter among you, that ye may not be destroyed."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-09-google-photos",
     title: "Google photos",
     date: "2026-09-09",
