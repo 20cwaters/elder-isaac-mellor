@@ -5,6 +5,34 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-23-re",
+    title: "Re:",
+    date: "2026-09-23",
+    location: "Franklin",
+    week: 8,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "Hello everyone. I hope everyone had an amazing week because we did in Frank!!" },
+      { type: "p", text: "We are so blessed out here, and our search for the elect is paying off. We committed three super solid friends to baptism, they are all amazing and have a great desire to know, and follow their savior better. They are excited to make their first covenant with God and we are excited to be a part of it. Maria is getting baptized on the 4th and Keegan and John are going to be baptized on the 11th. keep them in your prayers to remove any opposition that would stop them from coming to church! Thank you!" },
+      { type: "p", text: "Light sabers came! super fun so hyped about them, but dont worry Im still a locked missionary when it's time to pross, it's only an after hours activity." },
+      { type: "p", text: "This is the last full week of the transfer, which is kinda crazy. I thought it would never end during the first two weeks then it just went by in a flash. I blinked and missed it. but that gives me a lot more hope that the next two years will go by fast. Don't get me wrong though I absolutely love being out here and serving god. It's just the two year mountain that seems a bit daunting at times, but I am enjoying it and I love being out so I'm glad I still get to do it for a while." },
+      { type: "p", text: "love yall, miss yall, all that good stuff" },
+      { type: "p", text: "Big Money Big Tricks" },
+      { type: "p", text: "Just remember the spiritual thought🤦‍♂️🤦‍♂️🤦‍♂️" },
+      { type: "scripture", ref: "Psalm 62:5–7", text: "5 My soul, wait thou only upon God; for my expectation is from him.\n\n6 He only is my rock and my salvation: he is my defence; I shall not be moved.\n\n7 In God is my salvation and my glory: the rock of my strength, and my refuge, is in God." },
+      { type: "p", text: "I love psalms so much, I read it when I have extra time and I came upon these verses and they reminded me of my grandma Julies favorite scripture Helamen 5:12. I just love that connection but I also like how he says that God is the rock of his strength,  refuge, and defense. With a solid foundation we have all the protection we will ever need. We will have comfort when we need comfort. We will gave protection when we need it and we will have strength when we need it." },
+      { type: "p", text: "Building our foundation on Christ I essential for our life on earth and if we build on that sure foundation we will be given all the blessings we need to get through life during its hardest challenges! Might be a hard read im not throwing this in spell check but you get what im saying." }
+    ],
+    spiritualThought: {
+      title: "The rock of my strength",
+      intro: "",
+      scriptureRef: "Psalm 62:5–7",
+      scripture: "5 My soul, wait thou only upon God; for my expectation is from him.\n\n6 He only is my rock and my salvation: he is my defence; I shall not be moved.\n\n7 In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-16-google-photos",
     title: "Google photos",
     date: "2026-09-16",
