@@ -6,7 +6,7 @@
 window.LETTERS = [
   {
     id: "2026-10-28",
-    title: "🚀🎆🤑",
+    title: "Three months on the mission",
     date: "2026-10-28",
     location: "Franklin",
     week: 13,
@@ -38,7 +38,7 @@ window.LETTERS = [
   },
   {
     id: "2026-10-21-hit-up-the-photos-if-u-havent",
-    title: "Hit up the photos if u havent https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    title: "A pretty elect soul",
     date: "2026-10-21",
     location: "Franklin",
     week: 12,
@@ -121,7 +121,7 @@ window.LETTERS = [
   },
   {
     id: "2026-09-23-re",
-    title: "Re:",
+    title: "Three friends committed to baptism",
     date: "2026-09-23",
     location: "Franklin",
     week: 8,
@@ -149,7 +149,7 @@ window.LETTERS = [
   },
   {
     id: "2026-09-16-google-photos",
-    title: "Google photos",
+    title: "Mountains in her road",
     date: "2026-09-16",
     location: "Franklin",
     week: 7,
@@ -176,7 +176,7 @@ window.LETTERS = [
   },
   {
     id: "2026-09-09-google-photos",
-    title: "Google photos",
+    title: "Tennessee is so pretty",
     date: "2026-09-09",
     location: "Franklin",
     week: 6,
@@ -224,7 +224,7 @@ window.LETTERS = [
   },
   {
     id: "2026-08-26-google-photos",
-    title: "Google photos",
+    title: "First week in the ville",
     date: "2026-08-26",
     location: "Franklin",
     week: 4,

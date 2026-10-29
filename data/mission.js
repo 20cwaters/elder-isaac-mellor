@@ -94,7 +94,7 @@ window.MISSION = {
       lat: 35.92506,
       lng: -86.86889,
       companion: "Elder Casper",
-      note: "Franklin 4th Ward",
+      note: "Franklin 4th Ward · Trained by Elder Olivera until the September 30 transfer",
       current: true
     }
   ]
