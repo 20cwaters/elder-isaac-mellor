@@ -77,12 +77,24 @@ window.MISSION = {
       region: "Provo, Utah, USA",
       type: "mtc",
       start: "2026-08-05",
-      end: null,
+      end: "2026-08-19",
       lat: 40.259166,
       lng: -111.645602,
       zoom: 17,                              // optional: overrides maps.defaultZoom for this area
-      companion: "",
+      companion: "Elder Ricks",
       note: "",
+      current: false
+    },
+    {
+      name: "Franklin",
+      region: "Franklin, Tennessee, USA",
+      type: "area",
+      start: "2026-08-19",
+      end: null,
+      lat: 35.92506,
+      lng: -86.86889,
+      companion: "Elder Olivera",
+      note: "Franklin 4th Ward",
       current: true
     }
   ]
