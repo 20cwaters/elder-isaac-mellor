@@ -5,6 +5,36 @@
 
 window.LETTERS = [
   {
+    id: "2026-10-14-maria-was-dunked",
+    title: "Maria was dunked",
+    date: "2026-10-14",
+    location: "Franklin",
+    week: 11,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "Yo whats good gang. Sorry I missed last week's email but my phone got run over, but he got a new one so im back." },
+      { type: "p", text: "Maria has entered into the waters of baptism and received the gift of the holy ghost. she is her. She is the goat. She was so happy to be baptized and she just loves Jesus and the BOM (book of Mormon) so much. It's amazing to see. She is doing family history work to prepare to go into the temple. We are so excited to get her there!!" },
+      { type: "p", text: "upcoming bappys." },
+      { type: "p", text: "our friend Maggy was too sick to come to church last week but we put her back on date and is  to church this week. She wants the gift of the holy ghost very bad. she is amazing idk if I've ever talked about her but she is like an 85 year old black Baptist lady. She is fun. We have fun when we teach her. I wish y'all could be in those lessons." },
+      { type: "p", text: "our friend Javier is going to be baptized on the 8th. It's a part member family and his mom wants his grandpa to baptize him. He is like 10 years old and a super nice kid. very happy and is super excited to follow Jesus into the waters of baptism." },
+      { type: "p", text: "My new comp is him. I fetching love elder Casper. He is such a dog. We do good work and it's a lot of fun." },
+      { type: "p", text: "spiritual thought" },
+      { type: "p", text: "I read Alma chapter 29 recently and if you haven't read it in a minute I recommend it. The chapter is amazing. It's my favorite in the whole BOM (book of Mormon). Alma is just speaking very raw, and tells us his desires. its just amazing, and it's short so give it a read." },
+      { type: "scripture", ref: "Alma 29:9–10", text: "9 I know that which the Lord hath commanded me, and I glory in it. I do not glory of myself, but I glory in that which the Lord hath commanded me; yea, and this is my glory, that perhaps I may be an instrument in the hands of God to bring some soul to repentance; and this is my joy.\n\n10 And behold, when I see many of my brethren truly penitent, and coming to the Lord their God, then is my soul filled with joy; then do I remember what the Lord has done for me, yea, even that he hath heard my prayer; yea, then do I remember his merciful arm which he extended towards me." },
+      { type: "p", text: "truly an amazing couple of verses, and yes he is talking about missionary work so maybe that's just why its speaking to me so strongly. but i know you don't need to be a missionary to cry repentance. or just to share the joy the gospel has brought you. So I would like to invite you to share the joy of the gospel with anyone this week. just share the good word!" },
+      { type: "p", text: "love yall miss yall im going to bed" },
+      { type: "p", text: "BigMoneyBigTricks" }
+    ],
+    spiritualThought: {
+      title: "Share the joy of the gospel",
+      intro: "I read Alma chapter 29 recently and if you haven't read it in a minute I recommend it. The chapter is amazing. It's my favorite in the whole BOM (book of Mormon). Alma is just speaking very raw, and tells us his desires. its just amazing, and it's short so give it a read.",
+      scriptureRef: "Alma 29:9–10",
+      scripture: "9 I know that which the Lord hath commanded me, and I glory in it. I do not glory of myself, but I glory in that which the Lord hath commanded me; yea, and this is my glory, that perhaps I may be an instrument in the hands of God to bring some soul to repentance; and this is my joy.\n\n10 And behold, when I see many of my brethren truly penitent, and coming to the Lord their God, then is my soul filled with joy; then do I remember what the Lord has done for me, yea, even that he hath heard my prayer; yea, then do I remember his merciful arm which he extended towards me."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-30-transfer-news",
     title: "Transfer News 🚶‍♂️",
     date: "2026-09-30",
