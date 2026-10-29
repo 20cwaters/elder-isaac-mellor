@@ -5,6 +5,38 @@
 
 window.LETTERS = [
   {
+    id: "2026-10-28",
+    title: "🚀🎆🤑",
+    date: "2026-10-28",
+    location: "Franklin",
+    week: 13,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "What's good, all my lovely family and friends! I hope yall had a good week!" },
+      { type: "p", text: "I hit 3 months on the mission. kinda crazy it's been flying. only 21 to go or at least that's what they tell me." },
+      { type: "p", text: "This week was amazing. We have been very blessed finding wise this week. We have lots of new people to teach and put on date so stay tuned in for that." },
+      { type: "p", text: "Javier's baptism is on Sunday! We are so excited he is the goat and his grandpa is here and ready to baptize him. He is such a fun kid and we are so excited for him to receive the holy ghost and be dunked!!!!" },
+      { type: "p", text: "Maggie came to church (85 year old black baptized lady. The sweetest lady ever love her with all my heart). She said it was different but a good difference. and she is praying about being baptized but it is so getting dunked it's not even funny. She loves all the members but tonight we told her about transfers and she said that wasn't right and she was gonna email the mission president. so if she does I might get to stay in frank!!" },
+      { type: "p", text: "also a funny story about Maggie. We were going through the baptism interview questions and we got to the one about committing a serious crime. and she said well I set my boyfriend's house and car on fire and spent a couple nights in jail. She said she caught him with another woman and she wasn't the one to play with. low key on Maggie's side with that one. but she has repented for that so she can still get dunked. good thing the atonement is infinite! for everyone!!" },
+      { type: "p", text: "been getting the steps in this week we have been walking 16-18 miles a day. We hit 18 four times this week. kinda crazy but the lord blesses us for doing it." },
+      { type: "p", text: "spiritual thought" },
+      { type: "scripture", ref: "Alma 48:7, 14–15", text: "7 Now it came to pass that while Amalickiah had thus been obtaining power by fraud and deceit, Moroni, on the other hand, had been preparing the minds of the people to be faithful unto the Lord their God.\n\n14 Now the Nephites were taught to defend themselves against their enemies, even to the shedding of blood if it were necessary; yea, and they were also taught never to give an offense, yea, and never to raise the sword except it were against an enemy, except it were to preserve their lives.\n\n15 And this was their faith, that by so doing God would prosper them in the land, or in other words, if they were faithful in keeping the commandments of God that he would prosper them in the land; yea, warn them to flee, or to prepare for war, according to their danger;" },
+      { type: "p", text: "Now this is a really good couple of chapters but it talks about how while the lamanites prepared for war they did all the worldly things and they were fighting for worldly reasons. However, Captain Moroni prepared the nephites spiritually and prepared their cities to be defended from the lamanites trying to take them into bandage." },
+      { type: "p", text: "And by their faith the nephites new god would deliver them and put them in the position that they needed to be to win a war for their freedoms and rights to practice religion. They knew God would be with them and give them strength because they fought for the right reasons." },
+      { type: "p", text: "I know as we go through our daily lives and live and work for the right reasons God will be with us and we will be blessed according to our faith. Keep walking in faith, keep living for a good cause." },
+      { type: "p", text: "I love and miss all yall" },
+      { type: "p", text: "BigMoneyBigTricks" }
+    ],
+    spiritualThought: {
+      title: "Keep walking in faith",
+      intro: "",
+      scriptureRef: "Alma 48:7, 14–15",
+      scripture: "7 Now it came to pass that while Amalickiah had thus been obtaining power by fraud and deceit, Moroni, on the other hand, had been preparing the minds of the people to be faithful unto the Lord their God.\n\n14 Now the Nephites were taught to defend themselves against their enemies, even to the shedding of blood if it were necessary; yea, and they were also taught never to give an offense, yea, and never to raise the sword except it were against an enemy, except it were to preserve their lives.\n\n15 And this was their faith, that by so doing God would prosper them in the land, or in other words, if they were faithful in keeping the commandments of God that he would prosper them in the land; yea, warn them to flee, or to prepare for war, according to their danger;"
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-21-hit-up-the-photos-if-u-havent",
     title: "Hit up the photos if u havent https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
     date: "2026-10-21",
