@@ -1015,3 +1015,6 @@ blockquote.scripture cite {
 .boundary-map { margin: 1.4em 0 0; }
 .boundary-map img { display: block; width: 100%; height: auto; border-radius: var(--radius-sm); border: 1px solid var(--line); }
 .boundary-map figcaption { color: var(--ink-soft); font-size: .87rem; margin-top: 10px; }
+
+/* A photo nobody captioned shows no caption bar. */
+.photo__cap:empty, .photo__ph strong:empty { display: none; }
