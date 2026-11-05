@@ -5,6 +5,34 @@
 
 window.LETTERS = [
   {
+    id: "2026-11-04",
+    title: "Weekly email but im tired",
+    date: "2026-11-04",
+    location: "Franklin",
+    week: 14,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "yo whats good all my wonderful family and friends how yall doing? We are doing great in Franklin!" },
+      { type: "p", text: "This week our friend Javier was baptized and it was amazing to see. This lil jit was so exciting it was so amazing to see him finally be baptized. It is such a happy feeling seeing someone be baptized in love! and I'm very grateful that I was able to be a part of it." },
+      { type: "p", text: "We hit 36 finds this week and Jackman got us red bulls so that was hype." },
+      { type: "p", text: "only one more week left in this transfer is crazy. its flone fs. It's crazy idk where the time has gone. and with transfers coming up I have been praying to stay in franklin and with casper. so hopefully it's what god wants me to do. but ya kinda crazy exciting though." },
+      { type: "p", text: "After this transfer our p days are gonna be on monday so little change but know ill have the same as everyone else which is so tuff im hyped for it for sure but also not idk i like th brake in the middle of the week low key." },
+      { type: "p", text: "spiritual thought" },
+      { type: "scripture", ref: "Doctrine and Covenants 18:10–11", text: "10 Remember the worth of souls is great in the sight of God;\n\n11 For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him." },
+      { type: "p", text: "Just fantastic verses so so so good. Love yall" },
+      { type: "p", text: "See you next Wednesday!" },
+      { type: "p", text: "#BigMoneyBigTricks" }
+    ],
+    spiritualThought: {
+      title: "The worth of souls is great",
+      intro: "",
+      scriptureRef: "Doctrine and Covenants 18:10–11",
+      scripture: "10 Remember the worth of souls is great in the sight of God;\n\n11 For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-28",
     title: "Three months on the mission",
     date: "2026-10-28",
