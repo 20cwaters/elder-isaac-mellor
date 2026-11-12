@@ -5,6 +5,38 @@
 
 window.LETTERS = [
   {
+    id: "2026-11-11",
+    title: "Put Your Hands Up and Praise Him!!!",
+    date: "2026-11-11",
+    location: "Franklin",
+    week: 15,
+    albumUrl: "https://photos.app.goo.gl/sHYBfUJQ3ibYnpaY6",
+    body: [
+      { type: "p", text: "What you doing if you not hitting the photos?" },
+      { type: "p", text: "Yo whats good brothers and sisters." },
+      { type: "p", text: "Your boy is finally out of training, but your boy can't find his way out of Franklin. We got transfer news and I'm staying a 3rd in franklin and im staying with casper. kinda feeling indifferent, i mean i love it here i didnt really want to leave but you know a change of scenery might have been nice. but im happy to be able to kill my boy casp and send him home the right way." },
+      { type: "p", text: "“God really is answering my prayers”-maggie. We told Maggie yesterday that there was a chance that we would be transferred and she said. “that aint right, who I gotta call to stop that.” and i guess she prayed about it when we left and god answered her prayers cuz again we are staying." },
+      { type: "p", text: "we low key ghost busters" },
+      { type: "p", text: "Maggie has been telling us she has been seein ghosts for a while. and it aint the holy ghost. She says they always just stand in the doorway and she yells and asks “WHAT YOU WANT?” and they aint say nothing. they just dissapear. we low key just didnt think anything about it but then casper was like maybe we should bless her house. so the next time we went there we did, and in the blessing casper said some about not letting evil spirits dwell in this house and it was crazy. It light felt like some left, and then we just felt like an intensity of the spirit. some was def haunting mis maggie. actually was one of the craziest experience ive ever had. Something def left after he said that, and today we asked Maggie if she was seeing ghosts and she said she hadn't ever since she got her house blessed." },
+      { type: "p", text: "Maggie also is gonna get dunked this week if everything goes according to plan! keep her in your prayers" },
+      { type: "p", text: "Maria hit up the temple!!!! She loved it and is so her got check the flics in the photos if you havent" },
+      { type: "p", text: "Conference talk just this last one" },
+      { type: "scripture", ref: "“Divine Appointments,” President Timothy L. Farnes, Young Men General President", text: "Brothers and sisters, let us pray every day for eyes to see the divine appointments God places before us! Let us put compassion into action and minister to the person in front of us. It’s what Jesus did.\n\nAnd it’s what we do." },
+      { type: "p", text: "Mmmmm love this talk. Just a refresher he shares a story on how he and his wife helped a worried missionary that didn't have anything get on a plan and to his mission president. But the moral is to see the people God puts in our path. And don't just see them but help them with what they may need to be there for them. Be following the promoting of the spirit to help and serve the people that god puts in your path." },
+      { type: "p", text: "Love yall miss yall all that good stuff" },
+      { type: "p", text: "Thanks so much for all the b day wishes very much appreciated yall are them!!!" },
+      { type: "p", text: "BIGMONEYBIGTRICKS" }
+    ],
+    spiritualThought: {
+      title: "See the divine appointments God places before us",
+      intro: "Conference talk just this last one",
+      scriptureRef: "“Divine Appointments,” President Timothy L. Farnes, Young Men General President",
+      scripture: "Brothers and sisters, let us pray every day for eyes to see the divine appointments God places before us! Let us put compassion into action and minister to the person in front of us. It’s what Jesus did.\n\nAnd it’s what we do."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-11-04",
     title: "Weekly email but im tired",
     date: "2026-11-04",
